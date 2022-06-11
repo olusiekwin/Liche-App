@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Liche App</string>
+    <string name="brand_name">Liche App</string>
+    <string name="logo_name">Liche</string>
+    <string name="slogan_name">Let us unleash your creativity</string>
+    <string name="powered_by">Powered by Liche©</string>
+
+    <!--OnBoardingScreenStrings-->
+
+    <!--Title Strings-->
+    <string name="first_slide_title">Search For an Art</string>
+    <string name="second_slide_title">Interact With Friends</string>
+    <string name="third_slide_title">Share Your Art</string>
+    <string name="fourth_slide_title">Enjoy Your Art</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_description">You can search any art you desire from any part of the world in the palm of your hands. We will deliver specific or all related</string>
+    <string name="second_slide_description">We will make it possible for you to interact with all your friends registered to us globally.You can either interact through art or through Chat </string>
+    <string name="third_slide_description">If you have a Shop or something related to art and want to be part of us then add your place location or upload your art and be a part of our community </string>
+    <string name="fourth_slide_description">We will handle all for you. As you only need the app in your pocket then don\'t stress a thing because we got you.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="get_started_btn">Get Started</string>
+    <string name="textview" />
+
+    <!--UserDashboardStrings-->
+    <!--Categories-->
+    <string name="painting">Paintings</string>
+    <string name="architecture">Architecture</string>
+    <string name="theater">Theater</string>
+    <string name="cinema">Cinemas</string>
+    <string name="music">Music</string>
+    <string name="travel">Travel</string>
+    <string name="trends">Tech</string>
+
+    <!--Titles_And_Descriptions-->
+    <string name="featured_art">Top Featured</string>
+    <string name="featured_art_desc">All arts featured in the top trending chats!</string>
+    <string name="most_viewed_art">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search">Search...</string>
+
+    <string name="exp">Expand all</string>
+
+</resources>
